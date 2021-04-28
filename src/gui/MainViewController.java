@@ -41,8 +41,6 @@ public class MainViewController implements Initializable {
 			controller.updateTableView();
 		});
 	}
-	
-	
 
 	@FXML
 	public void onMenuItemAboutAction() {
